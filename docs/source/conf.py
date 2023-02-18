@@ -157,8 +157,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Py_xDH', 'Py_xDH Documentation',
-     author, 'Py_xDH', 'One line description of project.',
+    (master_doc, 'Py_xDH_andmore', 'Py_xDH Documentation',
+     author, 'Py_xDH_andmore', 'One line description of project.',
      'Miscellaneous'),
 ]
 
