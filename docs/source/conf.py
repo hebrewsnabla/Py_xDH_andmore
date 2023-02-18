@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Py_xDH'
+project = 'Py_xDH_andmore'
 copyright = '2018-2021, ajz34'
 author = 'ajz34'
 

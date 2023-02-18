@@ -97,6 +97,13 @@ xDH 在 Python 下实现的简易教程
    efficiency/mp2_eng
    efficiency/mp2_grad
 
+.. toctree::
+   :caption: PBC
+   :numbered:
+
+   pbc/index
+   pbc/integral
+
 
 索引
 ====
