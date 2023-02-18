@@ -53,7 +53,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 数值梯度必要背景
    :numbered:
-   :maxdepth: 0
+   :hidden:
 
    numdiff/index
    numdiff/basic_num
@@ -66,7 +66,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 一阶梯度与性质
    :numbered:
-   :maxdepth: 0
+   :hidden:
 
    derivonce/index
    derivonce/ref_list
@@ -84,7 +84,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 二阶梯度与性质
    :numbered:
-   :maxdepth: 0
+   :hidden:
 
    derivtwice/index
    derivtwice/hess_rhf
@@ -97,7 +97,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 开壳层开发笔记
    :numbered:
-   :maxdepth: 0
+   :hidden:
 
    unrestricted/uks_details
    unrestricted/ump2_details
@@ -105,7 +105,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 基于效率与内存考量的笔记
    :numbered:
-   :maxdepth: 0
+   :hidden:
 
    efficiency/chkfile_usage
    efficiency/rhf_grad
