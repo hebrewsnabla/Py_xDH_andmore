@@ -16,6 +16,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 前置准备
    :numbered:
+   :maxdepth: 1
 
    intro/index
    intro/build_environment
@@ -27,6 +28,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 量化基础必要背景
    :numbered:
+   :maxdepth: 1
 
    qcbasic/index
    qcbasic/basis_integral
@@ -41,8 +43,17 @@ xDH 在 Python 下实现的简易教程
    qcbasic/proj_xyg3
 
 .. toctree::
+   :caption: PBC
+   :numbered:
+
+   pbc/index
+   pbc/integral
+
+
+.. toctree::
    :caption: 数值梯度必要背景
    :numbered:
+   :maxdepth: 0
 
    numdiff/index
    numdiff/basic_num
@@ -55,6 +66,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 一阶梯度与性质
    :numbered:
+   :maxdepth: 0
 
    derivonce/index
    derivonce/ref_list
@@ -72,6 +84,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 二阶梯度与性质
    :numbered:
+   :maxdepth: 0
 
    derivtwice/index
    derivtwice/hess_rhf
@@ -84,6 +97,7 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 开壳层开发笔记
    :numbered:
+   :maxdepth: 0
 
    unrestricted/uks_details
    unrestricted/ump2_details
@@ -91,18 +105,12 @@ xDH 在 Python 下实现的简易教程
 .. toctree::
    :caption: 基于效率与内存考量的笔记
    :numbered:
+   :maxdepth: 0
 
    efficiency/chkfile_usage
    efficiency/rhf_grad
    efficiency/mp2_eng
    efficiency/mp2_grad
-
-.. toctree::
-   :caption: PBC
-   :numbered:
-
-   pbc/index
-   pbc/integral
 
 
 索引
