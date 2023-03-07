@@ -48,6 +48,7 @@ xDH 在 Python 下实现的简易教程
 
    pbc/index
    pbc/integral
+   pbc/fft
 
 
 .. toctree::
